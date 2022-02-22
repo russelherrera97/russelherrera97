@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Russ</h1>
 <h3 align="center">Back-End Engineer Aspirant Aspirant</h3>
 
+- 🖥️Works as Back-End Developer at **Taktyl Studios Inc.**
+
 - 🌱 I’m currently learning **Bulma and Strapi**
 
 - 📫 How to reach me **russelherrera.97@gmail.com**
