@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Russ</h1>
-<h3 align="center">Back-End Engineer Aspirant</h3>
+<h3 align="center">Full Stack Engineer Aspirant</h3>
 
 - 🖥️Works as Back-End Developer at **Taktyl Studios Inc.**
 
